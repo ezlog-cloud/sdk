@@ -1,7 +1,3 @@
-module github.com/ezlog-cloud/sdk/go
+module github.com/ezlog-cloud/sdk
 
 go 1.22.0
-
-replace (
-  github.com/ezlog-cloud/sdk/go => ./go/
-)
